@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Abhinav!
 
-<!--
-**AbhiSharma1210/AbhiSharma1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Smart Contract/Blockchain Engineer.
+   
+[![Abhinav Sharma Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-22396299)
+[![Abhinav Sharma Twitter](https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhiSharma_003)
+[![Abhinav Sharma StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22000699/solblaze)
+[![Abhinav Sharma Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi5237@gmail.com)
 
-Here are some ideas to get you started:
+#### Github Stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhiSharma1210)](https://github.com/anuraghazra/github-readme-stats)
+
