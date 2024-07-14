@@ -9,5 +9,8 @@
 
 #### Github Stats 📊
 
-[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhiSharma1210)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhiSharma1210&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSharma1210&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
