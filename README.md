@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abhinav!
 
-#### I'm a Smart Contract/Blockchain Engineer.
+#### I'm a self-learned Smart Contract/Blockchain Engineer.
    
 [![Abhinav Sharma Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-22396299)
 [![Abhinav Sharma Twitter](https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhiSharma_003)
